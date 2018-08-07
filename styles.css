@@ -1,0 +1,10 @@
+.maple-leaf {
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+    margin-top: 0px;
+    background-image: url("maple-leaf.svg");
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
